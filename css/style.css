@@ -41,9 +41,8 @@ color: black}
   }
   small {font-size: 11px;
     text-align: center}
-.header {background-color: aqua;}
-.main {background-color: aliceblue;}
-.footer{background-color: aquamarine;}
+
+body{background-color: aquamarine;}
 .container {
     max-width: 1440px;
     margin: 0 auto;
