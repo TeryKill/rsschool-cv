@@ -1,1 +1,1 @@
-https://TeryKill.github.io/rsschool-cv/cv
+https://TeryKill.github.io/rsschool-cv/
