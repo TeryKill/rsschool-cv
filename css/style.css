@@ -91,10 +91,18 @@ color: black}
   .section-item a:hover {
     color: #4d2323;
   }
-  #profile 
-  #contacts
-  #summsry
-  #skills
-  #code
-  #education
-  #languages
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
